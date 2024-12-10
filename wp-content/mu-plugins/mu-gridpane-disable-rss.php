@@ -8,7 +8,7 @@
  * @license         GNU-2.0+
  *
  * @wordpress-plugin
- * Plugin Name:     GridPane Disable XMLRPC
+ * Plugin Name:     GridPane Disable RSS
  * Plugin URI:      https://gitlab.gridpane.net/jeff/KillRSS
  * Description:     Disable WP RSS feed
  * Version:         0.1.0

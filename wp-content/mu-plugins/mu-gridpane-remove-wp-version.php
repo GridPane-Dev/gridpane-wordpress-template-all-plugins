@@ -8,7 +8,7 @@
  * @license         GNU-2.0+
  *
  * @wordpress-plugin
- * Plugin Name:     GridPane Disable XMLRPC
+ * Plugin Name:     GridPane Disable WP Version
  * Plugin URI:      https://gitlab.gridpane.net/gp-public/removewpversion
  * Description:     Replace WP version with the answer to everything...
  * Version:         0.1.0
